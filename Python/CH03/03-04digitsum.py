@@ -8,3 +8,4 @@ sum += int(num[3])
 sum += int(num[4])
 print('입력값:', vlaue)
 print('모든 자릿수 합:', sum)
+#.
