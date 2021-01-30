@@ -7,4 +7,4 @@ def addone():
 i = 20 #전역 변수
 print('i = ', i)
 addone() # 함수 호출로 함수 내부 4번 줄에서 오류
-print('i = ', i)
+print('i = ', i)...
