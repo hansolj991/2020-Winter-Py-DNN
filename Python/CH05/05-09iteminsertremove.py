@@ -14,6 +14,6 @@ print(item)
 #연필 두 자루 삭제
 print(item.pop(1)) # 첨자 1 항목 삭제
 item.remove('연필') # 항목 연필 항목 삭제
-del item[2:] #지우개와 수 품목 삭제
+del item[2:] #지우개와 수 품목 삭제  ..
 
 print(item)
