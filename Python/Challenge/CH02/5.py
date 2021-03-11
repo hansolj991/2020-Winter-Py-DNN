@@ -8,4 +8,4 @@ dif = acu2 - acu1
 
 print('정확계산: 섭씨:', celsius, ', 화씨:', acu1)
 print('정확계산: 섭씨:', celsius, ', 화씨:', acu2)
-print('차이:', dif)
+print('차이:', dif).
